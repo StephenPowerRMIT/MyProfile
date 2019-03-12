@@ -4,8 +4,8 @@
 
 
 
-<html>
-    <html> Stephen Power
+
+    <html> Stephen Power</html>
     <head>
             <title>web browser info, Stephen Power etc</title>
   </head>
